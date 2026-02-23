@@ -37,7 +37,6 @@ Dashboard นี้สามารถ:
 กดปุ่ม **"Upload TSLA CSV File"** แล้วเลือกไฟล์ `.CSV` ที่ดาวน์โหลดจาก Kaggle เข้าสู่ระบบ
 
 *(<img width="1383" height="358" alt="image" src="https://github.com/user-attachments/assets/7876c4a4-8482-411f-b3c1-e8ff224256d2" />
-<img width="1383" height="358" alt="image" src="https://github.com/user-attachments/assets/7876c4a4-8482-411f-b3c1-e8ff224256d2" />
 )*
 
 ---
@@ -54,7 +53,6 @@ Dashboard นี้สามารถ:
 ข้อมูลในกราฟและตารางจะเปลี่ยนตามเงื่อนไขที่กำหนดแบบ Real-time
 
 *(<img width="374" height="344" alt="image" src="https://github.com/user-attachments/assets/fcedecf6-643c-4ff8-97c6-4f20c4afe2b3" />
-<img width="374" height="344" alt="image" src="https://github.com/user-attachments/assets/fcedecf6-643c-4ff8-97c6-4f20c4afe2b3" />
 )*
 
 ---
@@ -82,13 +80,10 @@ Dashboard นี้สามารถ:
 ช่วยวิเคราะห์แนวโน้มตลาดในแต่ละวัน
 
 *(<img width="1421" height="628" alt="image" src="https://github.com/user-attachments/assets/b6ee5568-8022-45c2-98e1-2529dfea169e" />
-<img width="1421" height="628" alt="image" src="https://github.com/user-attachments/assets/b6ee5568-8022-45c2-98e1-2529dfea169e" />
 )*
 *(<img width="1413" height="608" alt="image" src="https://github.com/user-attachments/assets/7a440e67-dad9-4a13-a0ff-d9f7a3cf23f2" />
-<img width="1413" height="608" alt="image" src="https://github.com/user-attachments/assets/7a440e67-dad9-4a13-a0ff-d9f7a3cf23f2" />
 )*
 *(<img width="1438" height="717" alt="image" src="https://github.com/user-attachments/assets/e8b2da26-c624-46c0-b6f3-f6b3d2d02bd5" />
-<img width="1438" height="717" alt="image" src="https://github.com/user-attachments/assets/e8b2da26-c624-46c0-b6f3-f6b3d2d02bd5" />
 )*
 
 ---
@@ -105,7 +100,6 @@ Dashboard นี้สามารถ:
 - ดาวน์โหลดข้อมูลที่กรองแล้วเป็นไฟล์ .CSV
 
 *(เ<img width="1404" height="625" alt="image" src="https://github.com/user-attachments/assets/4b40ac35-e0fa-408d-81fd-3c9b7fa3e9ab" />
-<img width="1404" height="625" alt="image" src="https://github.com/user-attachments/assets/4b40ac35-e0fa-408d-81fd-3c9b7fa3e9ab" />
 )*
 
 ---
